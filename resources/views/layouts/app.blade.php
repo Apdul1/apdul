@@ -62,7 +62,7 @@
                 <div>
                     <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider">Contacts</h3>
                     <div class="mt-4 space-y-4">
-                        <a href="https://wa.me/6285156105763"
+                        <a href="https://wa.me/087709351034"
                             class="text-base text-gray-500 hover:text-gray-900 block">WhatsApp</a>
                         <a href="#" class="text-base text-gray-500 hover:text-gray-900 block">Instagram</a>
                         <a href="#" class="text-base text-gray-500 hover:text-gray-900 block">Facebook</a>
@@ -71,10 +71,7 @@
                 <div class="grid grid-cols-2 gap-8">
                     <div>
                         <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider">Credits</h3>
-                        <div class="mt-4 space-y-4">
-                            <a href="https://www.smkn2sumedang.sch.id"
-                                class="text-base text-gray-500 hover:text-gray-900 block">SMKN 2 Sumedang</a>
-                        </div>
+              
                     </div>
                 </div>
             </div>
